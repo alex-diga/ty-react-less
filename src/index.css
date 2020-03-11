@@ -1,6 +1,10 @@
+@font-face {
+  font-family: 'Ma_Shan_Zheng';
+  src: local('Ma_Shan_Zheng'), url(./font/Ma_Shan_Zheng/MaShanZheng-Regular.ttf) format('truetype');
+}
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: 'Ma_Shan_Zheng', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
